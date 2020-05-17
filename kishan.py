@@ -3,7 +3,7 @@ changing pixel ,changing to grayscale
 from PIL import Image
 import numpy as np
 import cv2
-a=Image.open('lenna.png')
+a=Image.open('lenna.png')#ADD YOUR IMAGE
 width,height=a.size
 width
 height
